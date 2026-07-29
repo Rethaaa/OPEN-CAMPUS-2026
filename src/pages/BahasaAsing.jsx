@@ -6,8 +6,8 @@ const IMAGES = [
   { id: 1, src: "/assets/jerman.png", alt: "Bahasa Jerman", vid: "https://drive.google.com/file/d/11N0opmqbgcMRfh7zmqxadjbJlF8ceWJS/preview" },
   { id: 2, src: "/assets/prancis.png", alt: "Bahasa Prancis", vid: "https://drive.google.com/file/d/17WGq2RGSlrilTcAVhg8NbXosWFnHBOLq/preview" },
   { id: 3, src: "/assets/mandarin.png", alt: "Bahasa Mandarin", vid: "https://drive.google.com/file/d/1GGnQa4UAts5-mFDdWHz98LL69EquWVe0/preview" },
-  { id: 4, src: "/assets/jepang.png", alt: "Bahasa Jepang", vid: "" },
-  { id: 5, src: "/assets/korea.png", alt: "Bahasa Korea", vid: "" },
+  { id: 4, src: "/assets/jepang.png", alt: "Bahasa Jepang", vid: "https://drive.google.com/file/d/1ofa59OTQCC8gOZCxzJRxSs13GVmlhITK/preview" },
+  { id: 5, src: "/assets/korea.png", alt: "Bahasa Korea", vid: "https://drive.google.com/file/d/1y4fIHVGcFWiV1AmrdrI40FquziIn_q1p/preview" },
   { id: 6, src: "/assets/belanda.png", alt: "Bahasa Belanda", vid: "https://drive.google.com/file/d/1xeYXtFjEWfUnaeuT-OQzeLu8yNsasg4Q/preview" },
 ];
 

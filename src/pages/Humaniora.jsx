@@ -5,18 +5,18 @@ import CloseIcon from '@mui/icons-material/Close';
 const IMAGES = [
   { id: 1, src: "/assets/gamelanb.png", alt: "Gamelan Bali", vid: "https://drive.google.com/file/d/1OFnoZvbkaGvEQ2_fvXID0Mw5nuC7svDb/preview" },
   { id: 2, src: "/assets/gamelanj.png", alt: "Gamelan Jawa", vid: "https://drive.google.com/file/d/1F03F-pgxm-km1H-bJfHx-A5oJY6n158W/preview" },
-  { id: 3, src: "/assets/kecantikan.PNG", alt: "Kecantikan", vid: "" },
+  { id: 3, src: "/assets/kecantikan.PNG", alt: "Kecantikan", vid: "https://drive.google.com/file/d/1wVAIlCbTdtynvJ7AW2E-e57y2Ft51udV/preview" },
   { id: 4, src: "/assets/angklung.PNG", alt: "Angklung", vid: "https://drive.google.com/file/d/11ytI7hoFyAzHtyZXYMt-tBl0sRZL-kCY/preview" },
   { id: 5, src: "/assets/kolintang.PNG", alt: "Kolintang", vid: "https://drive.google.com/file/d/1xz3-8p2i_9StZPqzG5AzxrkmjnTUGG9X/preview" },
   { id: 6, src: "/assets/melukis.PNG", alt: "Melukis", vid: "https://drive.google.com/file/d/1zTEOE2vUumqHd1YFp5Cb0fzy5Cu402DK/preview" },
   { id: 7, src: "/assets/memasak.PNG", alt: "Memasak", vid: "https://drive.google.com/file/d/1HqH4xGA1QIHzLiUBCaAkAHi5_JpvP5Bp/preview" },
-  { id: 8, src: "/assets/fotografi.png", alt: "Fotografi", vid: "" },
+  { id: 8, src: "/assets/fotografi.png", alt: "Fotografi", vid: "https://drive.google.com/file/d/1h4eo1hkEwe0l0bptQVcGSyFKefBbENpj/preview" },
   { id: 9, src: "/assets/sinem.png", alt: "Sinematografi", vid: "https://drive.google.com/file/d/1CBlIIaPn85ANjWlohSUY_X5C92P_KYE5/preview" },
   { id: 10, src: "/assets/ttm.png", alt: "TTM", vid: "" },
   { id: 11, src: "/assets/handicraft.png", alt: "Handicraft", vid: "https://drive.google.com/file/d/1nxJFFT9UklQfpt8QvbmRrV_eCqxyTy0v/preview" },
   { id: 12, src: "/assets/graphicd.png", alt: "Desain Grafis", vid: "https://drive.google.com/file/d/1K2q4Dx2U1Ttw9eJYk6Wj21p_y_tKgbQr/preview" },
-  { id: 13, src: "/assets/tatting.png", alt: "Tatting", vid: "" },
-  { id: 14, src: "/assets/fd.png", alt: "Fashion Design", vid: "" },
+  { id: 13, src: "/assets/tatting.png", alt: "Tatting", vid: "https://drive.google.com/file/d/1C-TTLvkjo6qQUhj5-ZsXq8AE5x2BIXwQ/preview" },
+  { id: 14, src: "/assets/fd.png", alt: "Fashion Design", vid: "https://drive.google.com/file/d/1wdqLnnbH9s0rk79gBmmu8A8zWuEiAHNm/preview" },
   { id: 15, src: "/assets/padus.png", alt: "Paduan Suara", vid: "https://drive.google.com/file/d/19VI-F3RGMBq37mTyFUfi9bYcmxVwMMet/preview" },
 ];
 

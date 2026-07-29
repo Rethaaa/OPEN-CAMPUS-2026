@@ -4,10 +4,10 @@ import CloseIcon from '@mui/icons-material/Close';
 
 const IMAGES = [
   { id: 1, src: "/assets/taekwondo.png", alt: "Taekwondo", vid: "" },
-  { id: 2, src: "/assets/jersif.png", alt: "Jerman Intensif", vid: "" },
-  { id: 3, src: "/assets/kir.png", alt: "KIR", vid: "" },
+  { id: 2, src: "/assets/jersif.png", alt: "Jerman Intensif", vid: "https://drive.google.com/file/d/1KtRNq5y2Nj305SgfB80gOLPArDdMtTL8/preview" },
+  { id: 3, src: "/assets/kir.png", alt: "KIR", vid: "https://drive.google.com/file/d/12SRqCvhwKYWCi9FJ2OIxHrMuKLUm3xwR/preview" },
   { id: 4, src: "/assets/englishd.png", alt: "English Debate", vid: "https://drive.google.com/file/d/1Lc-0JVZznoqbBFeDvQFNse3-XZEd0jQq/preview" },
-  { id: 5, src: "/assets/band.png", alt: "Band", vid: "" },
+  { id: 5, src: "/assets/band.png", alt: "Band", vid: "https://drive.google.com/file/d/1qdM_kbwvbZrEFCyaCWKfup1ZYXzuq9Oe/preview" },
   { id: 6, src: "/assets/orkes.png", alt: "Orkestra", vid: "https://drive.google.com/file/d/1HShRqC_GfKm5M-RSWzWnVGefoNjZpt3k/preview" },
   { id: 7, src: "/assets/bultang.png", alt: "Bulu Tangkis", vid: "https://drive.google.com/file/d/1oLKms7avppqthe8Y6Sx0QCZ-Udgj93-F/preview" },
   { id: 8, src: "/assets/mathc.png", alt: "Math Club", vid: "https://drive.google.com/file/d/1V7k9XKETia1FRR33BGjf_7lPwFjM4c8F/preview" },
