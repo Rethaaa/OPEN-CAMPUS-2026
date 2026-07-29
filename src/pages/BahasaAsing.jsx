@@ -8,7 +8,7 @@ const IMAGES = [
   { id: 3, src: "/assets/mandarin.png", alt: "Bahasa Mandarin", vid: "https://drive.google.com/file/d/1GGnQa4UAts5-mFDdWHz98LL69EquWVe0/preview" },
   { id: 4, src: "/assets/jepang.png", alt: "Bahasa Jepang", vid: "" },
   { id: 5, src: "/assets/korea.png", alt: "Bahasa Korea", vid: "" },
-  { id: 6, src: "/assets/belanda.png", alt: "Bahasa Belanda", vid: "" },
+  { id: 6, src: "/assets/belanda.png", alt: "Bahasa Belanda", vid: "https://drive.google.com/file/d/1xeYXtFjEWfUnaeuT-OQzeLu8yNsasg4Q/preview" },
 ];
 
 export default function Attachments() {
