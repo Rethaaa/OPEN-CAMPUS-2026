@@ -19,7 +19,7 @@ export default function Attachments() {
             </Typography>
             <Box
                 component="iframe"
-                src='https://www.youtube.com/embed/3SHb_lW-nT8?si=VjWNKnXzxDAts2bS'
+                src=''
                 allow="autoplay; encrypted-media"
                 controls
                 autoPlay

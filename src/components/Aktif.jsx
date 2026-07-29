@@ -13,7 +13,7 @@ const IMAGES = [
   { id: 8, src: "/assets/mathc.png", alt: "Math Club", vid: "https://drive.google.com/file/d/1V7k9XKETia1FRR33BGjf_7lPwFjM4c8F/preview" },
   { id: 9, src: "/assets/ucv.png", alt: "UCV", vid: "https://drive.google.com/file/d/1utjjbGjpP-O6irksQ_HHaO90r3jtG-RR/preview" },
   { id: 10, src: "/assets/voli.png", alt: "Voli", vid: "https://drive.google.com/file/d/1MaApMzVCZehKbM-4rxuLnNTi3nuvuS9w/preview" },
-  { id: 11, src: "/assets/panahan.png", alt: "Panahan", vid: "" },
+  { id: 11, src: "/assets/panahan.png", alt: "Panahan", vid: "https://drive.google.com/file/d/1HSfrsnjisDCWZuSQXzFSYg3DXDNn3TEb/preview" },
   { id: 12, src: "/assets/futsal.png", alt: "Futsal", vid: "https://drive.google.com/file/d/1v-V6Hn4VtV1XGfa970jOSPd7PqDYTWLT/preview" },
 ]
 
