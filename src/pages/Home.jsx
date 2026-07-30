@@ -65,7 +65,7 @@ export default function Home() {
                 <Box component="img"
                   src={step.img}
                   alt={step.title}
-                  sx={{ width: 200, mx: "auto", mb: 2 }}
+                  sx={{ width: '100%', mx: "auto", mb: 2 }}
                 />
                 <Typography variant="h6" color='tertiary' sx={{ fontFamily: 'Konthen' }}>
                   {step.title}
