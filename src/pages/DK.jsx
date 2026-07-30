@@ -19,7 +19,7 @@ export default function Attachments() {
             </Typography>
             <Box
                 component="iframe"
-                src=''
+                src='https://drive.google.com/file/d/1X6c8h2a9H35WqIQbevp8eBap0g-KbwN2/preview'
                 allow="autoplay; encrypted-media"
                 controls
                 autoPlay
