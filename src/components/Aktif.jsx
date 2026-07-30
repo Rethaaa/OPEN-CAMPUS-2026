@@ -3,7 +3,7 @@ import { Grid, Paper, Typography, Box, Dialog, IconButton } from "@mui/material"
 import CloseIcon from '@mui/icons-material/Close';
 
 const IMAGES = [
-  { id: 1, src: "/assets/taekwondo.png", alt: "Taekwondo", vid: "" },
+  { id: 1, src: "/assets/taekwondo.png", alt: "Taekwondo", vid: "https://drive.google.com/file/d/1SUO237BxT28vYwwr__3Uv_tpSOqqo_RF/preview" },
   { id: 2, src: "/assets/jersif.png", alt: "Jerman Intensif", vid: "https://drive.google.com/file/d/1KtRNq5y2Nj305SgfB80gOLPArDdMtTL8/preview" },
   { id: 3, src: "/assets/kir.png", alt: "KIR", vid: "https://drive.google.com/file/d/12SRqCvhwKYWCi9FJ2OIxHrMuKLUm3xwR/preview" },
   { id: 4, src: "/assets/englishd.png", alt: "English Debate", vid: "https://drive.google.com/file/d/1Lc-0JVZznoqbBFeDvQFNse3-XZEd0jQq/preview" },

@@ -12,7 +12,7 @@ const IMAGES = [
   { id: 7, src: "/assets/memasak.PNG", alt: "Memasak", vid: "https://drive.google.com/file/d/1HqH4xGA1QIHzLiUBCaAkAHi5_JpvP5Bp/preview" },
   { id: 8, src: "/assets/fotografi.png", alt: "Fotografi", vid: "https://drive.google.com/file/d/1h4eo1hkEwe0l0bptQVcGSyFKefBbENpj/preview" },
   { id: 9, src: "/assets/sinem.png", alt: "Sinematografi", vid: "https://drive.google.com/file/d/1CBlIIaPn85ANjWlohSUY_X5C92P_KYE5/preview" },
-  { id: 10, src: "/assets/ttm.png", alt: "TTM", vid: "" },
+  { id: 10, src: "/assets/ttm.png", alt: "TTM", vid: "https://drive.google.com/file/d/12xet6LZotlQCAdTGotacEUcM46319_UA/preview" },
   { id: 11, src: "/assets/handicraft.png", alt: "Handicraft", vid: "https://drive.google.com/file/d/1nxJFFT9UklQfpt8QvbmRrV_eCqxyTy0v/preview" },
   { id: 12, src: "/assets/graphicd.png", alt: "Desain Grafis", vid: "https://drive.google.com/file/d/1K2q4Dx2U1Ttw9eJYk6Wj21p_y_tKgbQr/preview" },
   { id: 13, src: "/assets/tatting.png", alt: "Tatting", vid: "https://drive.google.com/file/d/1C-TTLvkjo6qQUhj5-ZsXq8AE5x2BIXwQ/preview" },
